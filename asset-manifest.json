@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Practice_Robofriends/static/css/main.1494a4bb.chunk.css",
+    "main.js": "/Practice_Robofriends/static/js/main.1aac2b4a.chunk.js",
+    "main.js.map": "/Practice_Robofriends/static/js/main.1aac2b4a.chunk.js.map",
+    "runtime-main.js": "/Practice_Robofriends/static/js/runtime-main.bf5b33ab.js",
+    "runtime-main.js.map": "/Practice_Robofriends/static/js/runtime-main.bf5b33ab.js.map",
+    "static/css/2.eb45ad44.chunk.css": "/Practice_Robofriends/static/css/2.eb45ad44.chunk.css",
+    "static/js/2.38e71f33.chunk.js": "/Practice_Robofriends/static/js/2.38e71f33.chunk.js",
+    "static/js/2.38e71f33.chunk.js.map": "/Practice_Robofriends/static/js/2.38e71f33.chunk.js.map",
+    "index.html": "/Practice_Robofriends/index.html",
+    "precache-manifest.e07b8ea3a052111d161e2e7b21809c54.js": "/Practice_Robofriends/precache-manifest.e07b8ea3a052111d161e2e7b21809c54.js",
+    "service-worker.js": "/Practice_Robofriends/service-worker.js",
+    "static/css/2.eb45ad44.chunk.css.map": "/Practice_Robofriends/static/css/2.eb45ad44.chunk.css.map",
+    "static/css/main.1494a4bb.chunk.css.map": "/Practice_Robofriends/static/css/main.1494a4bb.chunk.css.map",
+    "static/js/2.38e71f33.chunk.js.LICENSE": "/Practice_Robofriends/static/js/2.38e71f33.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bf5b33ab.js",
+    "static/css/2.eb45ad44.chunk.css",
+    "static/js/2.38e71f33.chunk.js",
+    "static/css/main.1494a4bb.chunk.css",
+    "static/js/main.1aac2b4a.chunk.js"
+  ]
+}
